@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **Sasindun2000@gmil.com**
+- 📫 How to reach me **Sasindun2000@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny.**
 
