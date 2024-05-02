@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindunadeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasindunadeeshan" /> </p>
 
-- 🌱 I’m currently learning **OOP with JAVA**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Web development**
 
