@@ -1,4 +1,4 @@
-<p align="left"> <img width="1280" height="280" src="https://wallpaperaccess.com/full/5927911.gif" alt="sasindunadeeshan" /> </p>
+<p align="left"> <img width="1280" height="280" src="https://wallpaperaccess.com/full/5927911.gif" alt="sasindunadeeshan" /></p>
 <h1 align="center">Hi👋, I'm Sasindu Nadeeshan </h1>
 <h3 align="center">Passionate IT Student | Software Developer | Web Developer</h3>
 
