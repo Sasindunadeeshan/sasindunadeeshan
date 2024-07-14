@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I Think I am funny.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/sasindunadeesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasindunadeesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/sasindu-nadeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sasindu-nadeeshan" height="30" width="40" /></a>
